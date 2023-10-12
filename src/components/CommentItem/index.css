@@ -1,0 +1,132 @@
+.amber {
+  background-color: #f59e0b;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+
+  padding-top: 4px;
+  color: white;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+  padding-top: 3px;
+  padding-top: 4px;
+  color: white;
+  padding-bottom: 2px;
+  text-align: center;
+  margin-right: 5px;
+}
+
+/* Write your CSS here */
+.heading-container {
+  display: flex;
+}
+.name-containers {
+  display: flex;
+}
+.name {
+  margin-right: 10px;
+}
+.time {
+  color: #cbd2d9;
+}
+.comments {
+  color: #475569;
+}
+.list-item {
+  list-style-type: none;
+}
+.like {
+  color: #475569;
+}
+.like-icon {
+  display: flex;
+  background-color: transparent;
+  border-width: 0px;
+}
+.image {
+  align-self: center;
+  margin-right: 10px;
+}
+.like-container {
+  display: flex;
+  justify-content: space-between;
+}
+.delete {
+  align-self: center;
+  background-color: transparent;
+  border-width: 0px;
+}
